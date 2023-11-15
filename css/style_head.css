@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    margin:auto;
+    width:600px;
+    height:300px;
+    background-color: coral;
+
+}
+
+#titles{
+    font-size:30px;
+}
+#gazo{
+    opacity: 0.4;
+    margin:auto;
+    width:80%;
+    height:10%;
+
+}

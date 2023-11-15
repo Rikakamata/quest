@@ -1,0 +1,49 @@
+#food{
+    /* text-align: left; */
+    height: 45px;
+    font-size:40px;
+    width:200px;
+}
+#food_txt{
+
+    height: 45px;
+    font-size:40px;
+    width:200px;
+}
+.tb{
+    width:700px;
+    text-align: center;
+
+}
+table{
+
+    margin: 0 auto; /* テーブルを中央寄せにする */
+    text-align: left; /* テーブル内のテキストを左寄せにリセット */
+  }
+
+.txt{
+    /* display:flex; */
+    width: 600px;
+}
+#gene{
+font-size:30px;
+
+}
+#oyatu{
+    font-size:30px;
+
+
+    }
+
+  
+    body{
+        text-align: center;
+        margin:auto;
+        width:600px;
+        height:300px;
+        background-color:lightpink;
+    }
+
+    p{
+        font-size:20px;
+    }
