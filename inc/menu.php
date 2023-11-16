@@ -38,15 +38,13 @@ fclose($fp);
       <option value="o90">90歳以上</option> 
     </select>
     <select name="oyatu" id="oyatu">
-      <option value="" id ="nanitabe" type="text">たべたおやつ</option>
-
+      <option value="nasi" id ="nanitabe" type="text">たべたおやつ</option>
     <?php 
 
 //＊ここで表示処理
 for($i=0; $i<count($txt);$i++){
-
-print_r($txt[$i][0]);
         echo "<option value=".$txt[$i][0].">";
+        print_r($txt[$i][0]);
 }
 ?>
 </select>
